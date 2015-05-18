@@ -1,0 +1,18 @@
+body {
+
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #192625;
+	font-weight: 700;
+}
+
+.text_muted {
+	color: #636363;
+}
+
+.text-thin {
+	font-weight: 300;
+}
+
+.super-title {
+	font-size: 60px;
+}
